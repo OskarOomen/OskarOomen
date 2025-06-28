@@ -6,7 +6,7 @@ I've built across different domains — from web tools to full-stack apps — bu
 
 ### 🚀 Projects & Highlights
 
-- 🧠 Developed a convolutional neural network (CNN) accepted to two international science fairs:
+- 🧠 Developed a convolutional neural network (CNN) to detect pneumonia in dogs from chest X-rays, accepted to two international science fairs:
   - **Exporecerca Jove** (Spain)
   - **Genius Olympiad** (USA)
 - 🧮 Created a custom math tutoring website and taught 3 long-term clients
