@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Oskar
 
-<!--
-**OskarOomen/OskarOomen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an 18-year-old self-taught developer and incoming student at UC Berkeley, planning to double major in Math and Computer Science.
 
-Here are some ideas to get you started:
+I've built across different domains — from web tools to full-stack apps — but my main interest lies in machine learning and its applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects & Highlights
+
+- 🧠 Developed a convolutional neural network (CNN) accepted to two international science fairs:
+  - **Exporecerca Jove** (Spain)
+  - **Genius Olympiad** (USA)
+- 🧮 Created a custom math tutoring website and taught 3 long-term clients
+
+### 🔬 Interests & Stack
+
+- Python (primary language)
+- ML frameworks: TensorFlow, Keras, scikit-learn
+- Backend: FastAPI, Flask
+- Cloud: Google Cloud Run, AWS (S3, DynamoDB)
+
+### 📌 Notes
+
+- Most of my current projects are private — happy to share upon request 
+- Focused on building maintainable code and understanding ML from the ground up
+
+📬 Reach me at: [oskar_oomen@berkeley.edu](mailto:oskar_oomen@berkeley.edu) | [LinkedIn](https://www.linkedin.com/in/oskaroomen/)
