@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Oskar
 
-I'm an 18-year-old self-taught developer and incoming student at UC Berkeley, planning to double major in Math and Computer Science.
+I'm a 19-year-old self-taught developer and incoming student at UC Berkeley, planning to double major in Math and Computer Science.
 
 I've built across different domains — from web tools to full-stack apps — but my main interest lies in machine learning and its applications.
 
